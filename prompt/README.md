@@ -2,4 +2,4 @@
 A minimalistic custom prompt
 
 ## Example
-![https://raw.githubusercontent.com/argillander/linux-utils/master/prompt/example.png](img.png)
+![](https://raw.githubusercontent.com/argillander/linux-utils/master/prompt/example.png)
